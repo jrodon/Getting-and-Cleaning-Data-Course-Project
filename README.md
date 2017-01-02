@@ -26,7 +26,7 @@ This file.
 
 Description of the variables, the original data, and the modifications performed.
 
-## Instructions
+# Instructions
 
 1.  Download the "run\_analysis.R" file into your working directory.
 
