@@ -49,7 +49,7 @@ The "run\_analysis.R" R script performs the following actions.
     data frame. This new data frame contains the average of each
     variable for each activity and each subject.
 
-9.  Writes the **averagesHAR** data frame in the "averagesHAR.csv" file in
+9.  Writes the **averagesHAR** data frame in the "averagesHAR.txt" file in
     the current working directory.
 
 ## Variables
