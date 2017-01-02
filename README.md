@@ -43,7 +43,7 @@ Description of the variables, the original data, and the modifications performed
     b.  The "averagesHAR.csv" file can be read back into R with the R
         command
     ```R
-    mydata <- read.csv('[file_path]/averagesHAR.csv')
+    mydata <- read.table('[file_path]/averagesHAR.txt', header = TRUE)
     ```
 
 
