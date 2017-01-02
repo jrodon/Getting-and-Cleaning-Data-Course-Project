@@ -34,7 +34,7 @@ Description of the variables, the original data, and the modifications performed
 
 3.  From within R, run the "run\_analysis.R" file with the command
     ```R
-    source('\[working\_directory\_path\]/run\_analysis.R')
+    source('[working_directory_path]/run_analysis.R')
     ```
 
     a.  This will create the "averagesHAR.csv" file in your
@@ -43,7 +43,7 @@ Description of the variables, the original data, and the modifications performed
     b.  The "averagesHAR.csv" file can be read back into R with the R
         command
     ```R
-    mydata \<- read.csv('\[file\_path\]/averagesHAR.csv')
+    mydata <- read.csv('[file_path]/averagesHAR.csv')
     ```
 
 
