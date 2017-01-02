@@ -324,4 +324,6 @@ MeanOfFFTBodyBodyGyroJerkMagMean&ensp;&ensp;&ensp;&ensp;  Double-precision float
 MeanOfFFTBodyBodyGyroJerkMagStd&ensp;&ensp;&ensp;&ensp;  Double-precision float<br>
 &ensp;&ensp;&ensp;&ensp;Mean of the standard deviations of the euclidean-norm magnitude of the Fast Fourier Transform of the jerk of the body component from the gyroscope signal<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-1..1 .Normalized value<br>
-<br>
+
+## References
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
