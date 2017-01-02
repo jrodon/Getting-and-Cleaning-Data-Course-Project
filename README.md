@@ -37,10 +37,10 @@ Description of the variables, the original data, and the modifications performed
     source('[working_directory_path]/run_analysis.R')
     ```
 
-    a.  This will create the "averagesHAR.csv" file in your
+    a.  This will create the "averagesHAR.txt" file in your
         working directory.
 
-    b.  The "averagesHAR.csv" file can be read back into R with the R
+    b.  The "averagesHAR.txt" file can be read back into R with the R
         command
     ```R
     mydata <- read.table('[file_path]/averagesHAR.txt', header = TRUE)
