@@ -109,4 +109,4 @@ names(averagesHAR)[3:dim(averagesHAR)[2]] <-
         sub("(^.)", "MeanOf\\1", names(averagesHAR)[3:dim(averagesHAR)[2]])
 #
 # Writes the new set to the disk
-write.csv(averagesHAR, "averagesHAR.csv", row.names = T)
+write.table(averagesHAR, "averagesHAR.txt", row.names = F)

@@ -1,5 +1,4 @@
-# Data dictionary - Averages of the Human Activity Recognition database<br>
-<br>
+# Data dictionary - Averages of the Human Activity Recognition database
 
 ## Original data
 

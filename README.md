@@ -18,10 +18,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The R script that process the data as described in the **CodeBook.md** file.
 
-## averagesHAR.csv
-
-This is the output of the "run\_analysis.R" script.
-
 ## README.md
 
 This file.
